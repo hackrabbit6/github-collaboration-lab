@@ -1,1 +1,5 @@
-# github-collaboration-lab
+ ## 协作约定
+
+   - 每个功能使用独立分支
+   - 通过 Pull Request 合并
+   - 合并前至少完成一次审查
